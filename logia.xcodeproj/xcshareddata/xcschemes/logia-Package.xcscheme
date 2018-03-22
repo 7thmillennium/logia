@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme LastUpgradeVersion = "9999" version = "1.3">
+  <BuildAction parallelizeBuildables = "YES" buildImplicitDependencies = "YES">
+    <BuildActionEntries>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'$(TARGET_NAME)'"
+          BlueprintName = "logia"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "HeliumLogger"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Application"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Swagger_Petstore_ServerSDK"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SimpleHttpClient"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SimpleLogger"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Generated"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Health"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SwiftMetricsPrometheus"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SwiftMetricsDash"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SwiftMetricsBluemix"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SwiftBAMDC"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "KituraWebSocket"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Cryptor"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SwiftyRequest"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "CircuitBreaker"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SwiftMetricsKitura"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SwiftMetrics"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "memplugin"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "cpuplugin"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "envplugin"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "hcapiplugin"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "agentcore"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SwiftyJSON"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "CloudEnvironment"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "CloudFoundryEnv"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Configuration"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "FileKit"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Kitura"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "KituraContracts"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "KituraTemplateEngine"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "KituraNet"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Signals"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "SSLService"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "Socket"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "LoggerAPI"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+      <BuildActionEntry buildForTesting = "YES" buildForRunning = "YES" buildForProfiling = "YES" buildForArchiving = "YES" buildForAnalyzing = "YES">
+        <BuildableReference
+          BuildableIdentifier = "primary"
+          BuildableName = "'lib$(TARGET_NAME)'"
+          BlueprintName = "CHTTPParser"
+          ReferencedContainer = "container:logia.xcodeproj">
+        </BuildableReference>
+      </BuildActionEntry>
+    </BuildActionEntries>
+  </BuildAction>
+  <TestAction
+    buildConfiguration = "Debug"
+    selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+    selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+    shouldUseLaunchSchemeArgsEnv = "YES"
+    codeCoverageEnabled = "NO">
+    <Testables>
+    <TestableReference
+      skipped = "NO">
+      <BuildableReference
+        BuildableIdentifier = "primary"
+        BuildableName = "'$(TARGET_NAME)'"
+        BlueprintName = "ApplicationTests"
+        ReferencedContainer = "container:logia.xcodeproj">
+      </BuildableReference>
+    </TestableReference>
+    </Testables>
+  </TestAction>
+</Scheme>

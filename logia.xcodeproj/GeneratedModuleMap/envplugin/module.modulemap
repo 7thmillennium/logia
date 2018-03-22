@@ -1,0 +1,4 @@
+module envplugin {
+    umbrella header "/home/looper/projects/logia/.build/checkouts/omr-agentcore-7732127503301928519/src/envplugin/include/envplugin.h"
+    export *
+}

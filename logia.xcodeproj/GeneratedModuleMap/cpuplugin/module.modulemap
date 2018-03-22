@@ -1,0 +1,4 @@
+module cpuplugin {
+    umbrella header "/home/looper/projects/logia/.build/checkouts/omr-agentcore-7732127503301928519/src/cpuplugin/include/cpuplugin.h"
+    export *
+}

@@ -1,0 +1,4 @@
+module agentcore {
+    umbrella "/home/looper/projects/logia/.build/checkouts/omr-agentcore-7732127503301928519/src/agentcore/include"
+    export *
+}
